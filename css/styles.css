@@ -76,7 +76,7 @@ a:hover{
 }
 
 .top-container {
-    width: 100%;
+    width: auto;
     height: auto;
     background-color: #06283D;
     padding: 100px;
